@@ -1,2 +1,3 @@
-# calculadora-simples-py
-Calculadora simples em Python.
+# Calculadora Simples em Python
+Calculadora de linha de comando feito em Python.
+Calcula adição, subtração, multiplicação, divisão, potenciação e fatoração.
